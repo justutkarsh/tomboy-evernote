@@ -26,6 +26,7 @@ Modified by Evernote for use with the Evernote API.
 
 package com.evernote.client.oauth;
 
+
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
